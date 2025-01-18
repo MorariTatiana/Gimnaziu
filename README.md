@@ -1,2 +1,2 @@
 # Gimnaziu
-Site creat în cadrul cursului Tekwill în fiecare școală
+Site creat în cadrul cursului Tekwill în Fiecare Școală
