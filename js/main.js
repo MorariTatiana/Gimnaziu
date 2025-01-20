@@ -1,5 +1,6 @@
 new SimpleLightbox({elements:".galerie-container a"});
 new SimpleLightbox({elements:".orar-imagini a"});
+new SimpleLightbox({elements:".noutate-data a"});
 
 AOS.init({once: true});
 

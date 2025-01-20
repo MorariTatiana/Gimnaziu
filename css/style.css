@@ -288,7 +288,7 @@ footer {
     background: rgb(0, 204, 255);
     text-align: center;
     color:white ;
-    padding-top:2px ;
+    padding: 2px;
    
 }
 
@@ -302,7 +302,6 @@ footer {
     display: none;
 
 }
-
 
 .orar-imagini a {
     position: relative;
@@ -353,8 +352,9 @@ footer {
     font-weight: bold;
     cursor:pointer;
 }
-
-
+.blok {
+    display: grid;
+}
 
 .noutate {
     overflow: auto;
